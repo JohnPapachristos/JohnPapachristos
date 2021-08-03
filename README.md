@@ -28,7 +28,7 @@ Coding is my hobby, the feeling that Ι get when I create a website, a game or a
 <img src="https://user-images.githubusercontent.com/88382457/128034651-35a58fc0-8fec-4fe7-8a1c-b78bc9e175c4.png" width="4%" />,
 <img src="https://user-images.githubusercontent.com/88382457/128034834-bc3a539c-e673-4c37-bc14-3fa93a9c16d1.png" width="4%" />,
 <img src="https://user-images.githubusercontent.com/88382457/128035016-c6920425-a31b-4396-9a0a-059b4927bf77.png" width="4%" />,
-<img src="https://user-images.githubusercontent.com/88382457/128035196-33acbd5b-3e66-4efa-92fb-04a8358098b8.png" width="4%" />
+<img src="https://user-images.githubusercontent.com/88382457/128035196-33acbd5b-3e66-4efa-92fb-04a8358098b8.png" width="7%" />
 
 
 
