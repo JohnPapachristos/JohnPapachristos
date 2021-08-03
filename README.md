@@ -15,7 +15,7 @@
 ### Programming languages:
 
 <img src="https://user-images.githubusercontent.com/88382457/128032462-1ee216c1-c55e-492e-8f58-08c92562d22f.png" width="10%" />,
-<img src="https://user-images.githubusercontent.com/88382457/128033024-6dc93d40-a11a-4cc0-a2c0-c7a82d70662f.png" width="2%" />,
+<img src="https://user-images.githubusercontent.com/88382457/128033024-6dc93d40-a11a-4cc0-a2c0-c7a82d70662f.png" width="4%" />,
 
 
 
