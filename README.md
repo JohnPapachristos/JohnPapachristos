@@ -30,6 +30,10 @@
 <img src="https://user-images.githubusercontent.com/88382457/128035016-c6920425-a31b-4396-9a0a-059b4927bf77.png" width="4%" />,
 <img src="https://user-images.githubusercontent.com/88382457/128035196-33acbd5b-3e66-4efa-92fb-04a8358098b8.png" width="7%" />
 
+### Project programming languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPapachristos&theme=tokyonight)
+
 
 
 
