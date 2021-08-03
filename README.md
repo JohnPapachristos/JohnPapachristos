@@ -1,3 +1,4 @@
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=JohnPapachristos.JohnPapachristos)
 
 ### Hello there, I am John Papachristos and I am a software developer! 👋
@@ -23,6 +24,12 @@
 <img src="https://user-images.githubusercontent.com/88382457/128034157-f52d0126-dfab-4937-b0da-2a6c1f56f0c8.png" width="5%" />
 
 ### Tools:
-<img src="https://user-images.githubusercontent.com/88382457/128034507-6a607e0c-1c58-4774-9ce5-059bd00da046.png" width="5%" />,
+<img src="https://user-images.githubusercontent.com/88382457/128034507-6a607e0c-1c58-4774-9ce5-059bd00da046.png" width="4%" />,
+<img src="https://user-images.githubusercontent.com/88382457/128034651-35a58fc0-8fec-4fe7-8a1c-b78bc9e175c4.png" width="4" />,
+<img src="https://user-images.githubusercontent.com/88382457/128034834-bc3a539c-e673-4c37-bc14-3fa93a9c16d1.png" width="4" />,
+<img src="https://user-images.githubusercontent.com/88382457/128035016-c6920425-a31b-4396-9a0a-059b4927bf77.png" width="4" />,
+<img src="https://user-images.githubusercontent.com/88382457/128035196-33acbd5b-3e66-4efa-92fb-04a8358098b8.png" width="4" />
+
+
 
 
