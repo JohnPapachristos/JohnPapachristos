@@ -23,6 +23,6 @@
 <img src="https://user-images.githubusercontent.com/88382457/128034157-f52d0126-dfab-4937-b0da-2a6c1f56f0c8.png" width="5%" />
 
 ### Tools:
+<img src="https://user-images.githubusercontent.com/88382457/128034507-6a607e0c-1c58-4774-9ce5-059bd00da046.png" width="5%" />,
 
-:
 
