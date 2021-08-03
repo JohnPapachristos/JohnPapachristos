@@ -5,11 +5,16 @@
 ### I am young with huge motivation seeking for new challenges in software development.
 
 - 🌱 I’m currently learning Java and Javascript
-- 📫 How to reach me: [linkedin - @John.Papachristoss](linkedin.com/in/john-papachristos-a7b620218)
+- 📫 How to reach me: 
+  * [linkedin - @John.Papachristoss](linkedin.com/in/john-papachristos-a7b620218), 
+  * phone: +30 694 763 6416
+  * mail: john.papachristoss@gmail.com
 - ⚡ Personal interest: Street lifting
 
 
 ### Programming languages:
 
+![H-J-C](https://user-images.githubusercontent.com/88382457/128032462-1ee216c1-c55e-492e-8f58-08c92562d22f.png)
+-
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPapachristos&theme=tokyonight)
+
