@@ -8,10 +8,9 @@
 ### I am young with huge motivation seeking for new challenges in software development.
 
 - 🌱 I’m currently learning Java and Javascript
-- 📫 How to reach me: 
-  * [linkedin - @John.Papachristoss](linkedin.com/in/john-papachristos-a7b620218), 
+- 📫 How to reach me:  
   * john.papachristoss@gmail.com
-  * +30 694 763 6416
+  * +30 693 665 7759
 - ⚡ Personal interest: Street lifting
 
 
