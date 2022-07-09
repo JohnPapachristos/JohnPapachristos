@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Java and Javascript
 - 📫 How to reach me:  
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
+  * [Twitter](https://twitter.com/JohnPapachrist9)
   * [Personal website](https://johnpapachristos.github.io)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
