@@ -12,7 +12,6 @@
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
   * [Twitter](https://twitter.com/JohnPapachrist9)
   * [Personal website](https://johnpapachristos.github.io)
-  * [FitnessApp website(For fun)](http://fitandhealthyteam.epizy.com)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
 - ⚡ Personal interest: Street lifting
