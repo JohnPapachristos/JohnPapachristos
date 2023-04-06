@@ -20,7 +20,7 @@
 
 ## 💬 Get in touch
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
-  * [Twitter](https://twitter.com/JohnPapachrist9)
+  * [Twitter](https://twitter.com/JohnPapach73861)
   * [Personal website](https://johnpapachristos.github.io)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
