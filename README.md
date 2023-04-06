@@ -3,7 +3,7 @@
 
 # Hello there, I am John Papachristos and I am a software developer! 👋
 
-- I'm a Java developer based in Greece, with a passion for coding and building great applications. I specialize in building projects with Spring Boot, and I love to learn new technologies and explore different programming languages.
+- I'm a Java developer based in Greece, working on Arhs Development Hellas, with a passion for coding and building great applications. I specialize in building projects with Spring Boot, and I love to learn new technologies and explore different programming languages.
 
 
 ## 🔭 Current projects
