@@ -24,7 +24,7 @@
   * [Personal website](https://johnpapachristos.github.io)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
-  * Download my CV [CV - John Papachristos.pdf](https://github.com/JohnPapachristos/JohnPapachristos/files/11170527/CV.-.John.Papachristos.pdf)
+  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11170527/CV.-.John.Papachristos.pdf)
 
 
 Thanks for visiting my GitHub profile! I'm always looking for new projects to work on and interesting people to collaborate with. Don't hesitate to reach out if you want to connect or have any questions about my work.
