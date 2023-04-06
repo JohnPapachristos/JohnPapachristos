@@ -22,9 +22,10 @@
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
   * [Twitter](https://twitter.com/JohnPapach73861)
   * [Personal website](https://johnpapachristos.github.io)
+  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11170527/CV.-.John.Papachristos.pdf)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
-  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11170527/CV.-.John.Papachristos.pdf)
+
 
 
 Thanks for visiting my GitHub profile! I'm always looking for new projects to work on and interesting people to collaborate with. Don't hesitate to reach out if you want to connect or have any questions about my work.
