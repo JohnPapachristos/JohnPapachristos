@@ -23,7 +23,7 @@
   * [Twitter](https://twitter.com/JohnPapach73861)
   * [Personal portfolio website](https://johnpapachristos.github.io/portfolio/)
   * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
-  * [CV - John Papachristos]([Profile.pdf](https://github.com/JohnPapachristos/JohnPapachristos/files/11371346/Profile.pdf))
+  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11371346/Profile.pdf)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
 
