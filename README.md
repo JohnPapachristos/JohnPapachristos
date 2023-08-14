@@ -21,7 +21,7 @@
 ## 💬 Get in touch
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
   * [Twitter](https://twitter.com/JohnPapach73861)
-  * [Personal portfolio website](https://johnpapachristos.github.io/portfolio/)
+  * [Personal portfolio website](https://johnpapachristos.github.io/)
   * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
   * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11398606/JohnPapachristosCV.pdf)
   * john.papachristoss@gmail.com
