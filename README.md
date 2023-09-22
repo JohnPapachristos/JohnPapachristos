@@ -21,14 +21,18 @@
 ## 💬 Get in touch
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
   * [Twitter](https://twitter.com/JohnPapach73861)
-  * [Personal portfolio website](https://johnpapachristos.github.io/)
-  * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
   * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11398606/JohnPapachristosCV.pdf)
   * john.papachristoss@gmail.com
   * +30 693 665 7759
 
+ ## Websites created by me:
+  * [Personal portfolio website](https://johnpapachristos.github.io/)
+  * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
+  * [Portofolio with react from zero](https://portofolio-john-papachristos.netlify.app/)
+  * [Task management with react from zero](https://task-management-papachristos.netlify.app/)
 
 
+![image](https://github.com/JohnPapachristos/JohnPapachristos/assets/88382457/e61b2173-2fdc-44d8-8776-862c0a8179cc) 
 
 Thanks for visiting my GitHub profile! I'm always looking for new projects to work on and interesting people to collaborate with. Don't hesitate to reach out if you want to connect or have any questions about my work.
 
