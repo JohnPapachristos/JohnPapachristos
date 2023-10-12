@@ -23,10 +23,10 @@
   * [Twitter](https://twitter.com/JohnPapach73861)
   * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11398606/JohnPapachristosCV.pdf)
   * john.papachristoss@gmail.com
-  * +30 693 665 7759
+  * +30 694 697 8597
 
  ## Websites created by me:
-  * [Personal portfolio website](https://johnpapachristos.github.io/)
+  * [Personal portfolio website](portofolio-john-papachristos.netlify.app/)
   * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
   * [Portofolio with react from zero](https://portofolio-john-papachristos.netlify.app/)
   * [Task management with react from zero](https://task-management-papachristos.netlify.app/)
