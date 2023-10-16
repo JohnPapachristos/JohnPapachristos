@@ -21,7 +21,7 @@
 ## 💬 Get in touch
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
   * [Twitter](https://twitter.com/JohnPapach73861)
-  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/11398606/JohnPapachristosCV.pdf)
+  * [CV - John Papachristos](https://github.com/JohnPapachristos/JohnPapachristos/files/12915782/PapachristosCv.pdf)
   * john.papachristoss@gmail.com
   * +30 694 697 8597
 
