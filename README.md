@@ -26,7 +26,7 @@
   * +30 694 697 8597
 
  ## Websites created by me:
-  * [Main portfolio](https://portofolio-john-papachristos.netlify.app/): My main portofolio.
+  * [Main portfolio](https://johnpapachristos.github.io/): My main portofolio.
   * [Portofolio_v1](https://portofolio-john-papachristos.netlify.app/): First time using react portofolio.
   * [Cinepap](https://cinepap-papachristos.netlify.app/): Information about all new upcoming movies.
   * [Fitness website](https://johnpapachristos.github.io/fitnessApp/): Fitness website to calculate your calories.
