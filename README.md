@@ -26,9 +26,9 @@
   * +30 694 697 8597
 
  ## Websites created by me:
-  * [Personal portfolio website](portofolio-john-papachristos.netlify.app/)
+  * [[Cinepap](portofolio-john-papachristos.netlify.app/)](https://cinepap-papachristos.netlify.app/)
   * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
-  * [Portofolio with react from zero](https://portofolio-john-papachristos.netlify.app/)
+  * [Portofolio_v1](https://portofolio-john-papachristos.netlify.app/)
   * [Task management with react from zero](https://task-management-papachristos.netlify.app/)
 
 
