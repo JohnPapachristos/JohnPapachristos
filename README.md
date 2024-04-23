@@ -26,10 +26,10 @@
   * +30 694 697 8597
 
  ## Websites created by me:
-  * [Cinepap](https://cinepap-papachristos.netlify.app/)
-  * [Personal fitness website](https://johnpapachristos.github.io/fitnessApp/)
-  * [Portofolio_v1](https://portofolio-john-papachristos.netlify.app/)
-  * [Task management with react from zero](https://task-management-papachristos.netlify.app/)
+  * [Cinepap](https://cinepap-papachristos.netlify.app/): Information about all new upcoming movies.
+  * [Fitness website](https://johnpapachristos.github.io/fitnessApp/): Fitness website to calculate your calories.
+  * [Portofolio_v1](https://portofolio-john-papachristos.netlify.app/): First time using react portofolio.
+  * [Task management](https://task-management-papachristos.netlify.app/): Small application that helps you gather the tasks and edit them using react.
 
 
 ![image](https://github.com/JohnPapachristos/JohnPapachristos/assets/88382457/e61b2173-2fdc-44d8-8776-862c0a8179cc) 
