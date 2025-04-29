@@ -32,7 +32,6 @@
   * [Main portfolio](https://johnpapachristos.github.io/): My main portofolio.
   * [Portofolio_v1](https://portofolio-john-papachristos.netlify.app/): First time using react portofolio.
   * [Cinepap](https://cinepap-papachristos.netlify.app/): Information about all new upcoming movies.
-  * [Fitness website](https://johnpapachristos.github.io/fitnessApp/): Fitness website to calculate your calories.
   * [Task management](https://task-management-papachristos.netlify.app/): Small application that helps you gather the tasks and edit them using react.
 
 
