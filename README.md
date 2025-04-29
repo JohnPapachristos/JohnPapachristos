@@ -20,9 +20,8 @@
 - [Keycloack](link-to-technology-5)
 - [Elastic Search](link-to-technology-6)
 
-## 💻 Most Used Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPapachristos&layout=compact)](https://github.com/JohnPapachristos/github-readme-stats)
-
+<!--## 💻 Most Used Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPapachristos&layout=compact)](https://github.com/JohnPapachristos/github-readme-stats)-->
 
 ## 💬 Get in touch
   * [Linkedin](https://www.linkedin.com/in/john-papachristos-a7b620218/)
