@@ -6,8 +6,11 @@
 - I'm a Java developer based in Greece, working on Arhs Development Hellas, with a passion for coding and building great applications. I specialize in building projects with Spring Boot, and I love to learn new technologies and explore different programming languages.
 
 
-## 🔭 Current projects
+## 🔭 Old Projects:
 - [TED Tenders Electronic Daily](https://ted.europa.eu/TED/browse/browseByMap.do): Introduced eforms on TED, and currently maintaining it collaborating with a great team.
+
+## 🔭 Current Projects:
+- European Travel Information and Authorisation System (ETIAS)
 
 ## 🌱 I’m currently learning
 - [Java](link-to-technology-1)
